@@ -1,0 +1,11 @@
+{
+  "name": "git-atomic-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/NoahZhang/git-atomic-demo.git",
+    "type": "git"
+  },
+  "author": "NoahZhang <zhangguodong@admaster.com.cn>",
+  "license": "MIT"
+}
